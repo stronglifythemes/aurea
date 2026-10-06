@@ -1,0 +1,2 @@
+# aurea
+Theme: aurea
